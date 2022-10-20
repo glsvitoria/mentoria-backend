@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Bitcoin",
+        "coin": "BTC",
+        "value": "R$ 102.465,46",
+        "max": "63789,63",
+        "yearCreated": "2008"
+    },
+    {
+        "id": 2,
+        "name": "Ethereum",
+        "coin": "ETH",
+        "value": "R$ 6.920,66",
+        "max": "4891,70",
+        "yearCreated": "2015"
+    },
+    {
+        "id": 3,
+        "name": "Solana",
+        "coin": "SOL",
+        "value": "R$ 6.920,66",
+        "max": "260,06",
+        "yearCreated": "2017"
+    },
+    {
+        "id": 4,
+        "name": "Cardano",
+        "coin": "ADA",
+        "value": "R$ 160,68",
+        "max": "2,38",
+        "yearCreated": "2017"
+    },
+    {
+        "id": 5,
+        "name": "Polygon",
+        "coin": "MATIC",
+        "value": "R$ 1,93",
+        "max": "2,92",
+        "yearCreated": "2017"
+    },
+    {
+        "id": 6,
+        "name": "Polkadot",
+        "coin": "DOT",
+        "value": "R$ 4,49",
+        "max": "55,00",
+        "yearCreated": "2020"
+    }
+]
